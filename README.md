@@ -20,11 +20,16 @@ Super João was developed for the edX Harvard CS50 course and I'm happy to share
 However, if you want to contribute to the project, feel free to fork the repository and make changes as you see fit. 
 I would love to see what improvements you can make to the game.
 
+#### Suggested improvements
+* Making the cloned crows more distinct
+* Quality of fairness improvements like making sure that cloned crows don't freeze all too close to where João spawns after he's been hit.
+* RNG after certain cherry amount being a blessed cherry that has a wolf clearing one quarter of the level from all crows.
+
 ## License
 
 Super João is licensed under the MIT License. You are free to use and modify the game as you see fit, but I'm not responsible for any damages or loss incurred while using the game.
 
-##Credits
+## Credits
 
 Super João was developed by Jonatan Jansson(@dotmavriq), and it wouldn't have been possible without the amazing resources provided by the Scratch community. 
 I'm grateful to the Scratch team and the community for making game development so accessible and fun for beginners. 
