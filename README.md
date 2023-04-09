@@ -16,7 +16,9 @@ Alternatively, you can also play the game directly from your browser by visiting
 
 ## Contributing
 
-Super João was developed for the edX Harvard CS50 course as a final project, and I'm happy to share it with you. However, if you want to contribute to the project, feel free to fork the repository and make changes as you see fit. I would love to see what improvements you can make to the game.
+Super João was developed for the edX Harvard CS50 course and I'm happy to share it with you. 
+However, if you want to contribute to the project, feel free to fork the repository and make changes as you see fit. 
+I would love to see what improvements you can make to the game.
 
 ## License
 
