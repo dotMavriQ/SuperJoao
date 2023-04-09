@@ -21,6 +21,7 @@ However, if you want to contribute to the project, feel free to fork the reposit
 I would love to see what improvements you can make to the game.
 
 #### Suggested improvements
+* First music track should loop.
 * Making the cloned crows more distinct
 * Quality of fairness improvements like making sure that cloned crows don't freeze all too close to where João spawns after he's been hit.
 * RNG after certain cherry amount being a blessed cherry that has a wolf clearing one quarter of the level from all crows.
