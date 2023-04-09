@@ -6,7 +6,7 @@ Super João is an addictive Scratch game that puts you in the shoes of little Jo
 
 The game is simple to play, but challenging to master. You control João's movements using the arrow keys on your keyboard. You move him around the screen, collecting cherries while avoiding the crows. If you touch a crow, you lose a life, and if you lose all your lives, the game ends. The goal is to collect as many cherries as possible before the game ends.
 
-The game's difficulty level increases as you progress, with more crows joining the murder, and the angry meter increasing with each cherry you pick. However, don't worry, you can also collect power-ups, like the shield and the cherry magnet, to help you along the way.
+The game's difficulty level increases as you progress, with more crows joining the murder, increasing with each cherry you pick.
 
 ## How to Play
 
