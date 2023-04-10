@@ -10,7 +10,7 @@ The game's difficulty level increases as you progress, with more crows joining t
 
 ## How to Play
 
-To play Super João, you need to have the Scratch engine installed on your computer. You can download it from here. Once you have installed the Scratch engine, download the .sb3 file from this repository, and open it in the Scratch engine. You can then click on the green flag to start playing the game.
+To play Super João, you need to have the Scratch engine installed on your computer. [You can download it from here](https://scratch.mit.edu/download). Once you have installed the Scratch engine, download the .sb3 file from this repository, and open it in the Scratch engine. You can then click on the green flag to start playing the game.
 
 Alternatively, you can also play the game directly from your browser by visiting the following URL: https://scratch.mit.edu/projects/562193156.
 
